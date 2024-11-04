@@ -1,0 +1,14 @@
+{
+  "name": "Trend Card Lite",
+  "content_in_root": false,
+  "render_readme": true,
+  "domains": ["lovelace"],
+  "country": "DE",
+  "iot_class": "local_polling",
+  "documentation": "https://github.com/maziggy/trendCardLite#readme",
+  "readme": "https://github.com/maziggy/trendCardLite/blob/main/README.md",
+  "issues": "https://github.com/maziggy/trendCardLite/issues",
+  "dependencies": [],
+  "codeowners": ["@maziggy"],
+  "filename": "trend-chart-lite.min.js"
+}
