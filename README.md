@@ -4,6 +4,8 @@ A custom dashboard card for displaying calculated metrics trends.
 
 First try writing a custom card. I know it's not perfect. Any contributions, recommendations and comments are welcome!
 
+This is the Lite version, only displaying the metrics and trend. Go ![here](https://github.com/maziggy/trendCard) for the full version!
+
 ## Installation
 
 ### Via HACS
