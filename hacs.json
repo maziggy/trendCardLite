@@ -1,7 +1,7 @@
 {
-  "name": "Trend Card Lite",
+  "name":  "Trend Chart Lite",
   "description": "A custom Lovelace card for Home Assistant that displays trending data for sensors.",
-  "content_in_root": false,
+  "content_in_root": true,
   "render_readme": true,
   "domains": ["lovelace"],
   "country": "DE",
@@ -11,5 +11,5 @@
   "issues": "https://github.com/maziggy/trendCardLite/issues",
   "dependencies": [],
   "codeowners": ["@maziggy"],
-  "filename": "trend-chart-lite.min.js"
+  "filename": "trend-card-lite.min.js"
 }
