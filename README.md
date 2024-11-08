@@ -6,6 +6,10 @@ First try writing a custom card. I know it's not perfect. Any contributions, rec
 
 This is the Lite version, only displaying the metrics and trend. Go <b> <a href="https://github.com/maziggy/trendCard">here</a></b>
 
+## Screnshot
+
+![Screnshot](https://raw.githubusercontent.com/maziggy/trendCardLite/refs/heads/main/screenshots/trendCardLite-Screenshot.png)
+
 ## Installation
 
 ### Via HACS
