@@ -33,3 +33,18 @@ temperature_delta: sensor.growbox_temperature_last
 humidity_delta: sensor.growbox_humidity_last
 vpd_delta: sensor.growbox_vpd_last
 refresh: 60
+theme:
+  bgColor: "#2c2c2e"
+  metricBgColor: "#212122"
+  bubble1Color: "#2b8dd9"
+  bubble1TextColor: "#ffffff"
+  value1TextColor: "#ffffff"
+  bubble2Color: "#e7970d"
+  bubble2TextColor: "#ffffff"
+  value2TextColor: "#ffffff"
+  bubble3Color: "#ab07ae"
+  bubble3TextColor: "#ffffff"
+  value3TextColor: "#ffffff"
+  trendDownColor: "#498bff"
+  trendEqualColor: "#4ff24b"
+  trendUpColor: "#ff4c4c"
